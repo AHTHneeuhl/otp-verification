@@ -3,7 +3,8 @@
 This project required NodeJS and Yarn.
 
 ```sh
-cd [project-name]
+git clone https://github.com/AHTHneeuhl/otp-verification.git
+cd otp-verification
 yarn install
 yarn dev
 
